@@ -9,10 +9,6 @@
 ![Image text](/screenshots/3.png)
 ![Image text](/screenshots/4.png)
 ![Image text](/screenshots/5.png)
-![Image text](/screenshots/7.png)
-![Image text](/screenshots/8.png)
-![Image text](/screenshots/2.png)
-![Image text](/screenshots/6.png)
 
 ## 技术要点
 
@@ -26,4 +22,4 @@
 - 商品的图文分享：长按复制分享文案；选择多张商品图片，为每一张图片进行canvas绘制上小程序码或二维码后生成海报，并批量下载保存和预览生成的海报图片
 
 ## 扫码体验
-![Image text](https://github.com/BLCheung/TePinGood/blob/master/poster/poster.jpg)
+![Image text](/poster/poster.png)
