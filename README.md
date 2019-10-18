@@ -3,6 +3,17 @@
 
 因为该项目为已上线商业项目，想详细了解项目源码可加QQ:925306022
 
+## Screenshots
+
+![Image text](/screenshots/1.png)
+![Image text](/screenshots/3.png)
+![Image text](/screenshots/4.png)
+![Image text](/screenshots/5.png)
+![Image text](/screenshots/7.png)
+![Image text](/screenshots/8.png)
+![Image text](/screenshots/2.png)
+![Image text](/screenshots/6.png)
+
 ## 技术要点
 
 - 首页tab与商品筛选组件的吸顶效果
