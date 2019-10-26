@@ -5,10 +5,10 @@
 
 ## Screenshots
 
-![Image text](/screenshots/1.png)
-![Image text](/screenshots/3.png)
-![Image text](/screenshots/4.png)
-![Image text](/screenshots/5.png)
+<img src="./screenshots/1.png" width="25%" hspace="5" />
+<img src="./screenshots/3.png" width="25%" hspace="5" />
+<img src="./screenshots/4.png" width="25%" hspace="5" />
+<img src="./screenshots/5.png" width="25%" hspace="5" />
 
 ## 技术要点
 
