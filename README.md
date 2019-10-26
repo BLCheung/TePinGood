@@ -5,10 +5,7 @@
 
 ## Screenshots
 
-<img src="./screenshots/1.png" width="25%" />
-<img src="./screenshots/3.png" width="25%" />
-<img src="./screenshots/4.png" width="25%" />
-<img src="./screenshots/5.png" width="25%" />
+<img src="./screenshots/1.png" width="25%" /><img src="./screenshots/3.png" width="25%" /><img src="./screenshots/4.png" width="25%" /><img src="./screenshots/5.png" width="25%" />
 
 ## 技术要点
 
